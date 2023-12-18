@@ -1,2 +1,3 @@
 # firstlesson4tc1
-elo320
+This is a repository for introduction to github
+Technikum Mechatroniczne nr 1 <3
